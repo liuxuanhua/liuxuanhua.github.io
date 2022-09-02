@@ -2,7 +2,7 @@
 ==========================
 ## This is liuxuanhua
 ## Please use wechat to contact me
-## ![wechat](WeChat.jpg)
+## ![wechat](./WeChat.jpg)
 ==========================
 ## 请使用微信联系我
-## ![wechat](WeChat.jpg)
+## ![wechat](./WeChat.jpg)
