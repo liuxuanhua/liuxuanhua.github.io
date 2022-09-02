@@ -2,7 +2,7 @@
 ==========================
 ## This is liuxuanhua
 ## Please use wechat to contact me
-## ![wechat](https://www.baidu.com)
+## ![wechat](WeChat.jpg)
 ==========================
 ## 请使用微信联系我
-## ![wechat](https://www.baidu.com)
+## ![wechat](WeChat.jpg)
